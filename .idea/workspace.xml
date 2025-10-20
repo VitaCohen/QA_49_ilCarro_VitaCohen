@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca4c2bb1-f794-4c08-90bf-1db8810a50c4" name="Changes" comment="HomePage">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ui_tests/LoginTests.java" afterDir="false" />
+    <list default="true" id="ca4c2bb1-f794-4c08-90bf-1db8810a50c4" name="Changes" comment="HomeWork 4&#10;POM, LoginTest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ui_tests/HomeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ui_tests/HomeTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,11 +147,20 @@
       <option name="project" value="LOCAL" />
       <updated>1760643879951</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HomeWork 4&#10;POM, LoginTest">
+      <option name="closed" value="true" />
+      <created>1760728452756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760728452756</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HomePage" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomePage" />
+    <MESSAGE value="HomeWork 4&#10;POM, LoginTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork 4&#10;POM, LoginTest" />
   </component>
 </project>
